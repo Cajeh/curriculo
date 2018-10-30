@@ -21,6 +21,7 @@ Teresina/Piauí
 
 ## Competências já adquiridas
 
+* [HTML5 e CSS3](https://cursos.alura.com.br/certificate/dce3c2b3-d97e-41fb-9d5f-c2c20264752b)
 * [HTML5 e CSS3] (https://cursos.alura.com.br/certificate/dce3c2b3-d97e-41fb-9d5f-c2c20264752b) ,                 https://cursos.alura.com.br/certificate/fb574553-82e9-4a47-8a77-0eeec9936e57.
 * Boostrap -> https://cursos.alura.com.br/certificate/d4833bc9-5c72-408a-a765-6b53aec536de.
 * Javascript -> https://cursos.alura.com.br/certificate/919ca9fa-c293-4adb-a9a5-39cf6b39b96c.
