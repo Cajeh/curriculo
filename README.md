@@ -35,6 +35,7 @@ Teresina/Piauí
 * React + Redux -> Andamento
 * React Native -> Andamento
 * Jasmine -> Andamento
+* Git e GitHub -> Andamento
 * Sass -> Desejada
 * Progressive web Apss -> Desejada
 * Grunt ou Gulp -> Desejada
