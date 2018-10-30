@@ -10,9 +10,9 @@ Teresina/Piauí
 
 **E-mail:** daniel_dancho@hotmail.com
 
-**Inglês:** Otima leitura
+**Inglês:** Ótima leitura
 
-**Dispositivo:** Macbook Air i7
+**Dispositivo:** Macbook Air i7 8gb
 
 ---
 
@@ -52,15 +52,4 @@ Teresina/Piauí
 
 ## Formação
 
-* **Graduação** - Sistemas de Informação pelo (FAETERJ) - **[Completo]**
-* **Graduação** - 3 anos de Publicidade e Propaganda na Universidade Estácio de Sá(UNESA)
-* **Curso** - Desenvolvedor Multiplataforma Android/IOS com React Native
-* **Curso** - The Complete React and Redux course
-* **Curso** - React.js Ninja
-* **Curso** - JS com TDD
-* **Curso** - Welcome to the Django por Henrique Bastos
-* **Curso** - Python para Zumbis
-* **Curso** – Programa students to business de Desenvolvimento pela Microsoft .
-* **Curso** – Desenvolvimento em PHP pela WebRoads.
-* **Curso** – Flash Total Avançado por Luciano Augusto Treinamentos Profissionais.
-* **Curso** – Desenvolvimento Web pelo Senac.
+* **Graduação** - Ciências da Computação (UFPI) - **[Andamento - 6º Periodo]**
