@@ -12,7 +12,7 @@ Teresina/Piauí
 
 **Inglês:** Otima leitura
 
-**Ambiente de Trabalho:** Macbook Air i7
+**Dispositivo:** Macbook Air i7
 
 ---
 
