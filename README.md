@@ -1,85 +1,34 @@
-# Guilherme Peixoto da Costa Louro
-Petrópolis/RJ
+# Daniel de Alencar Carvalho
+Teresina/Piauí
 
 ---
 
-## Software Engineer
+## Front Ender
 
 
-**Telefone:** (24) 98111-6553
+**Telefone:** (86) 99919-4870
 
-**E-mail:** guipclouro@gmail.com
-
-**Linkedin:** [https://www.linkedin.com/in/guilhermelouro/](https://www.linkedin.com/in/guilhermelouro/)
+**E-mail:** daniel_dancho@hotmail.com
 
 **Github:** guilouro
 
 **Skype:** guilherme-louro
 
-**Inglês:** Intermediário
+**Inglês:** Otima leitura
 
 
 ---
 
-## Competências
+## Competências já adquiridas
 
-**BackEnd:**
-* Python
-* Django/Flask/Falcon
-* NodeJS
-* PHP
-* Programação Orientada à Objeto
-* Testes de software
-
-
-**FrontEnd:**
+* ReactJS
+* HTML5
+* CSS3
+* Boostrap -> https://cursos.alura.com.br/certificate/d4833bc9-5c72-408a-a765-6b53aec536de
+* jQuery
 * ES6
 * ReactJS
-* React Native
-* Redux
-* Webpack
-* Testes de software
-* HTML5/CSS3
-* Pré-processadores (Sass, Less, Stylus)
-* Responsive Design
-* Automatizadores (Grunt, Gulp)
-* jQuery
 
-
-**Banco de Dados:**
-* MySQL
-* PostgreSQL
-* SQLite
-* Firebase Realtime Database
-
-
-**Infra**
-* Apache/Nginx
-* Docker
-* Continuous Integrations
-* Continuous Deployment
-* Serviços AWS
-* Heroku
-* Fabric (Para automação de deploy)
-
-
-**Outros:**
-* Padrões de Projeto *(Modelo MVC)*
-* Sistema de Controle de versão *(git)*
-* Conhecimento em SEO
-* Conhecimento em Design e Arquitetura de Software
-* Base de UX/UI.
-* Scrum
-* Kanban
-
-
-**Experiências em outras linguagens:**
-* Criação de alguns projetos utilizando C#, .NET
-* Pequenos projetos com Ruby
-* Pequenos projetos utilizando C, C++, OpenGL
-* Trabalhei durante 4 anos com AS3/AS2 na criação de sites e jogos educativos
-
----
 
 ## Informações adicionais
 
