@@ -30,7 +30,7 @@ Teresina/Piauí
 * Curso base de UX -> [Certificado 1](https://cursos.alura.com.br/certificate/0c3114f0-55f7-4043-9e36-239efc7c74f7).
 
 
-## Competências futuras em ordem
+## Competências Futuras em Ordem
 
 * React + Redux -> Andamento
 * React Native -> Andamento
