@@ -14,7 +14,7 @@ Teresina/Piauí
 
 **Dispositivo:** Macbook Air i7 8gb
 
-**Interessado em Estágios atualmente**
+**Interessado em Estágio**
 
 ---
 
