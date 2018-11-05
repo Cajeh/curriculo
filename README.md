@@ -27,8 +27,9 @@ Teresina/Piauí
 * ES6 -> [Certificado 1](https://cursos.alura.com.br/certificate/142f627a-1f5c-4c5d-ad09-fd7a97ce7ca1)
 * jQuery -> [Certificado 1](https://cursos.alura.com.br/certificate/e4ead63d-8165-44a4-a747-d9342bf9bdf2) e 
 [Certificado 2](https://cursos.alura.com.br/certificate/19da886f-1c8e-44a3-ab90-da8a68024ea7)
-* React -> [Certificado 1](https://cursos.alura.com.br/certificate/a3140ed0-538c-4335-be5f-a59bc6d81aef) e
-[Certificado 2](https://cursos.alura.com.br/certificate/1c18f520-da19-47e3-9dad-af0f8bdf167b)
+* React -> [Certificado 1](https://cursos.alura.com.br/certificate/a3140ed0-538c-4335-be5f-a59bc6d81aef),
+[Certificado 2](https://cursos.alura.com.br/certificate/1c18f520-da19-47e3-9dad-af0f8bdf167b) e
+[Certificado 3](https://cursos.alura.com.br/certificate/9681486c-84d0-4306-9700-89a2fe3c35ae)
 * Curso base de UX -> [Certificado 1](https://cursos.alura.com.br/certificate/0c3114f0-55f7-4043-9e36-239efc7c74f7)
 
 
