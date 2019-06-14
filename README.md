@@ -31,13 +31,13 @@ Teresina/Piauí
 [Certificado 2](https://cursos.alura.com.br/certificate/1c18f520-da19-47e3-9dad-af0f8bdf167b) e
 [Certificado 3](https://cursos.alura.com.br/certificate/9681486c-84d0-4306-9700-89a2fe3c35ae)
 * Curso base de UX -> [Certificado 1](https://cursos.alura.com.br/certificate/0c3114f0-55f7-4043-9e36-239efc7c74f7)
+* React Native -> Sem Certificado
+* Git e GitHub -> Sem Certificado
 
 
 ## Competências Futuras em Ordem
 
-* React Native -> Andamento
 * Jasmine -> Andamento
-* Git e GitHub -> Andamento
 * Sass -> Desejada
 * Progressive web Apss -> Desejada
 * Grunt ou Gulp -> Desejada
@@ -47,11 +47,7 @@ Teresina/Piauí
 
 ## Interesses Secundários em Ordem
 
-* Marketing Digital
-* SEO e adwords
-* UX
-* Web Design
-* Social Media
+* User Interface
 ---
 
 ## Formação
