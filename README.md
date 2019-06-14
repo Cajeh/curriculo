@@ -3,7 +3,7 @@ Teresina/Piauí
 
 ---
 
-## Front Ender
+## Front End Developer
 
 
 **Telefone:** (86) 99919-4870
@@ -34,22 +34,19 @@ Teresina/Piauí
 * React Native -> Sem Certificado
 * Git e GitHub -> Sem Certificado
 
-
-## Competências Futuras em Ordem
-
-* Jasmine -> Andamento
-* Sass -> Desejada
-* Progressive web Apss -> Desejada
-* Grunt ou Gulp -> Desejada
-* Node.js -> Desejada
-
----
-
-## Interesses Secundários em Ordem
+## Interesses Secundários
 
 * User Interface
 ---
 
+## Projetos como voluntário
+
+* UFPI Mobile
+* Sigaa(UFPI) Mobile
+* Colégio Técnico de Teresina (UFPI) site
+
+---
+
 ## Formação
 
-* **Graduação** - Ciências da Computação (UFPI) - **[Andamento - 6º Periodo]**
+* **Graduação** - Ciências da Computação (UFPI) - **[Andamento - 7º Periodo]**
