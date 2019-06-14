@@ -34,6 +34,7 @@ Teresina/Piauí
 * React Native -> Sem Certificado
 * Git e GitHub -> Sem Certificado
 
+---
 ## Interesses Secundários
 
 * User Interface
